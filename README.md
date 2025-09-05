@@ -1,2 +1,2 @@
-# learn-python-code-tracker
-trying to learn coding
+# playing and flavouring the codes
+more programa cooking 
